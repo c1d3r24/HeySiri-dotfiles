@@ -1,0 +1,75 @@
+! special
+*.foreground:   #122e49
+*.background:   #122e49
+*.cursorColor:  #122e49
+
+! black
+*.color0:       #122e49
+*.color8:       #122e49
+
+! red
+*.color1:       #122e49
+*.color9:       #122e49
+
+! green
+*.color2:       #122e49
+*.color10:      #122e49
+
+! yellow
+*.color3:       #122e49
+*.color11:      #122e49
+
+! blue
+*.color4:       #122e49
+*.color12:      #122e49
+
+! magenta
+*.color5:       #122e49
+*.color13:      #122e49
+
+! cyan
+*.color6:       #122e49
+*.color14:      #122e49
+
+! white
+*.color7:       #122e49
+*.color15:      #122e49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
